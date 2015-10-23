@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 
-*In app/src/main/AndroidManifest.xml add permission to use call
+* In app/src/main/AndroidManifest.xml add permission to use call
 
 ```xml
 <uses-permission android:name="android.permission.CALL_PHONE" />

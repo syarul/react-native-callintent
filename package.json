@@ -1,0 +1,24 @@
+{
+  "name": "react-native-callintent",
+  "version": "1.0.0",
+  "description": "A React Native Call intent for Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "intent",
+    "android",
+    "call",
+    "react-component"
+  ],
+  "author": "Syarul <hottincup@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/syarul/react-native-callintent",
+  "bugs": "https://github.com/syarul/react-native-callintent/issues",
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  }
+}

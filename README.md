@@ -37,7 +37,7 @@ dependencies {
 * register module (in MainActivity.java)
 
 ```java
-import com.syarul.callintent.RNCallIntentPackage;;  // <--- import
+import com.syarul.callintent.RNCallIntentPackage;  // <--- import
 
 public class MainActivity extends Activity implements DefaultHardwareBackBtnHandler {
   ......

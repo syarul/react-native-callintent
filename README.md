@@ -1,4 +1,4 @@
-# react-native-webintent
+# react-native-callintent
 
 A React Native call intent for Android.
 
